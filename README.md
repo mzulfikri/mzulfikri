@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello everyone, introduce me Muhammad Zulfikri and me studying at STMIK Kaputama Binjai and am currently studying in the 5th semester, Faculty<br> of Computer Science majoring in Informatics Engineering. And I am currently working at Pt.Labani Media Nusantara as a Junior <br>Programmer. Maybe that's just my brief explanation, Thank you!
+Hello everyone, introduce me Muhammad Zulfikri and me studying at STMIK Kaputama Binjai and am currently studying in the 5th semester, Faculty of Computer Science majoring in Informatics Engineering. And I am currently working at Pt.Labani Media Nusantara as a Junior Programmer. Maybe that's just my brief explanation, Thank you!
 
 ## 🌐 Socials:
 
